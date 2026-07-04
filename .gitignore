@@ -1,0 +1,10 @@
+.DS_Store
+*.md
+!CREDITS.md
+!README.md
+goldfish/bin/
+goldfish/include/
+goldfish/lib/
+goldfish/pyvenv.cfg
+hamster/img/
+Photos/*

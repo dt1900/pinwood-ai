@@ -1,0 +1,15 @@
+<svg width="7in" height="1.75in" viewBox="0 0 7 1.75" xmlns="http://www.w3.org/2000/svg">
+  <text x="0.1" y="0.2" font-family="Arial" font-size="0.12" fill="red">TOP VIEW - Print at 100% Scale</text>
+  <text x="0.1" y="0.35" font-family="Arial" font-size="0.1" fill="red">Rear of Car is Left (X=0)</text>
+
+  <rect x="0" y="0" width="7" height="1.75" fill="none" stroke="black" stroke-width="0.02"/>
+  
+  <rect x="0.875" y="0.3125" width="3.25" height="1.125" fill="none" stroke="black" stroke-width="0.03" stroke-dasharray="0.1,0.05"/>
+  
+  <line x1="2.5" y1="0" x2="2.5" y2="1.75" stroke="red" stroke-width="0.01" />
+  <text x="2.55" y="1.6" font-family="Arial" font-size="0.1" fill="red">Axle Center</text>
+  
+  <text x="0.2" y="0.9" font-family="Arial" font-size="0.15" fill="black">REAR</text>
+  <text x="6.0" y="0.9" font-family="Arial" font-size="0.15" fill="black">FRONT</text>
+  <text x="1.5" y="0.8" font-family="Arial" font-size="0.1" fill="black">CUT OUT HATCHED AREA</text>
+</svg>

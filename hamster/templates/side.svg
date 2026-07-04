@@ -1,0 +1,18 @@
+<svg width="7in" height="1.5in" viewBox="0 0 7 1.5" xmlns="http://www.w3.org/2000/svg">
+  <text x="0.1" y="0.15" font-family="Arial" font-size="0.12" fill="red">SIDE PROFILE - Print at 100% Scale</text>
+  
+  <line x1="0" y1="1.25" x2="7" y2="1.25" stroke="black" stroke-width="0.02"/>
+  
+  <line x1="0" y1="0" x2="0" y2="1.25" stroke="black" stroke-width="0.02"/>
+  
+  <polyline points="0,0  2.07,0.37  2.2,0  2.8,0  2.99,0.53  7,1.25" 
+            fill="none" stroke="black" stroke-width="0.03" />
+
+  <circle cx="2.5" cy="0.25" r="0.06" fill="none" stroke="red" stroke-width="0.01"/>
+  <line x1="2.4" y1="0.25" x2="2.6" y2="0.25" stroke="red" stroke-width="0.005"/>
+  <line x1="2.5" y1="0.15" x2="2.5" y2="0.35" stroke="red" stroke-width="0.005"/>
+  
+  <text x="0.2" y="0.8" font-family="Arial" font-size="0.15" fill="black">REAR</text>
+  <text x="6.0" y="1.1" font-family="Arial" font-size="0.15" fill="black">FRONT</text>
+  <text x="2.9" y="0.2" font-family="Arial" font-size="0.1" fill="red">Axle Hole (1.0" up)</text>
+</svg>
