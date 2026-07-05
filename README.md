@@ -1,8 +1,8 @@
 # Pinewood Derby AI-Assisted Design Assets
 
-This repository contains the code, CAD models, vector designs, and physical template assets created to support the building of two custom-engineered [Pinewood Derby](https://en.wikipedia.org/wiki/Pinewood_derby) cars in early 2026. The cars were designed and built by @dt1900 his children with the assistance of [Google Gemini](https://gemini.google.com) as a workshop tool.
+This repository contains the code, CAD models, vector designs, and physical template assets created to support the building of two custom-engineered [Pinewood Derby](https://en.wikipedia.org/wiki/Pinewood_derby) cars in early 2026. The cars were designed and built by [@dt1900](https://github.com/dt1900) his children with the assistance of [Google Gemini](https://gemini.google.com) as a workshop tool.
 
-The complete story, building methodology, and race results are documented in the accompanying blog post.
+The complete story, building methodology, and race results are documented in the accompanying blog post: [https://medium.com/@_DANTHOMPSON/pinewood-ai-a9eb03ba1b30](https://medium.com/@_DANTHOMPSON/pinewood-ai-a9eb03ba1b30).
 
 ## Repository Directory Structure
 
